@@ -1,0 +1,586 @@
+@import "font.css";
+
+@backgroundColor:white;
+@colorNavbar:darken(#fff,20%);
+@colorNavbarItem:darken(#fff,10%);
+@renNumber:darken(red,10%);
+@blackColor:#444444;
+@cardFirstSection:#D0D0D0;
+@navbarBackGroundColor:#444444;
+@cardTitleColor:#4CB1E4;
+@backgroundOpportunity:#F5F5F5;
+@borderColorCards:#D0D0D0;
+@heightCard:5rem;
+@font-sizeLabel:0.8rem;
+@fontSizeLabelOpportunity:13px;
+@rightSpace:30%;
+//mixin
+.textMixin(){
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+.parentImage(@width,@height){
+  width: @width;
+  height:@height;
+}
+.image(@width,@height){
+  width: @width;
+  height: @height;
+  object-fit: cover;
+}
+.floatLeft{
+  float: left;
+}
+.floatRight{
+  float:left;
+}
+.colorLogo{
+  color: #F5F5F5;
+}
+.NumberSavedJob{
+  font-size: 1rem;
+  padding: 1.8% !important;
+}
+.saveClass{
+  color: #fff !important;
+  background-color: #6c757d !important;
+  border-color: #6c757d !important;
+}
+.btn-outline-secondary:hover {
+  color: #6C757D;
+  background-color: @backgroundColor;
+  border-color: #6C757D;
+}
+.fontSizeLabel{
+  font-size: @font-sizeLabel;
+}
+.checkBoxNone{
+  display: none;
+
+}
+i{
+  transition: 1s;
+}
+.fontClickRotate{
+  transform: rotate(180deg);
+}
+.heightToggle{
+  height: 1.9% !important;
+}
+.mtCustom{
+  font-size: 0.2%;
+}
+.toggleClassFilterField{
+    height: 2% !important;
+}
+.textMixin{
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: vazir;
+
+}
+.coursorPointer{
+  cursor: pointer;
+}
+.btn-md{
+  padding: 0.55rem 1rem;
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
+}
+.btnSave{
+  position: absolute;
+  top: 16%;
+  left: 10%;
+  padding: 0.4% 1.8%;
+  font-size: 1rem;
+}
+.directionRtl{
+  direction: rtl;
+}
+a{
+  text-decoration: none;
+}
+.mtCustom-7{
+  margin-top: 7rem;
+}
+body{
+  background-color: @backgroundColor;
+}
+.navbarCustom{
+  background-color: @navbarBackGroundColor !important;
+  height: 11vh;
+  .containerNavbar{
+    background-color: @navbarBackGroundColor;
+  }
+  .navbar-brand-custom{
+    color: @colorNavbar !important;
+
+  }
+   .navbar-nav{
+     .navbarItemCustom{
+       margin-right: 20px;
+       .navbarItemGroup{
+         a{
+           color: @colorNavbarItem;
+         }
+       }
+
+     }
+
+   }
+}
+.solgonSection{
+    .parentSloganImageImg{
+        width: 100%;
+        height: 60vh;
+
+      img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .solganBanner{
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 68%;
+        height: 40%;
+        background-color: rgba(242 242 242 / 82%);
+        border-top-right-radius: 2rem;
+        border-top-left-radius: 2rem;
+        text-align: center;
+
+        h2{
+          color: @navbarBackGroundColor;
+          font-weight: bold;
+          line-height: 110px;
+          .numberJob{
+            color: @renNumber;
+            margin: 0 2%;
+            display: inline-block;
+            .underline{
+              width: 100%;
+              height: 4px;
+              bottom: 43px;
+              left: 50%;
+              transform: translateX(-50%);
+              border-bottom: 3px dashed @renNumber;
+            }
+          }
+        }
+        .sloganjobinja{
+          top: 55%;
+          text-align: center;
+          right: 28%;
+          padding: 1% 0;
+          font-weight: 500;
+        }
+      }
+      .allJobLink{
+        width: 100%;
+        bottom: 0;
+        height: 15%;
+        background: linear-gradient(rgba(0, 144, 255, 0.85), rgba(0, 255, 255, 0.85));
+        text-align: center;
+        line-height: 60px;
+
+        span{
+          a{
+            color:#fff !important;
+            text-align: center;
+            border-bottom: 2px dashed #fff;
+          }
+        }
+      }
+    }
+}
+.cardCompany{
+  .companyCard{
+    //margin-left: 1%!important;
+    border-radius: 3px;
+    border: 1px solid #e0e0e0;
+    font-size: 6px;
+    padding: 15px 0;
+    margin-top: 2%;
+    .imgContainer{
+      width: 50%;
+      img{
+        width: 100%;
+      }
+    }
+    .CompanyName{
+      margin-top: 12px;
+      font-size: 0.8rem;
+
+      small{
+        a{
+          .textMixin
+        }
+      }
+    }
+  }
+
+
+}
+.cardFirstSectionPage{
+  margin-bottom: 5%;
+}
+.cardCustomFirst{
+  padding: 20px 20px 3px 20px;
+}
+.oportunityFirstSection{
+  position: relative;
+  height: 20%;
+  border: 1px solid @borderColorCards;
+  &::after{
+    content: 'آخرین آگهی ها';
+    text-align: center;
+    position: absolute;
+    color: #3AB1E4;
+    font-weight: bold;
+    font-size: 0.9rem;
+    width: 35%;
+    height: 40px;
+    line-height: 30px;
+    border-bottom: 1px solid #fff;
+    border-top: 5px solid #3AB1E4;
+    border-right: 1px solid @cardFirstSection;
+    border-left: 1px solid @cardFirstSection;
+    transform: translateY(-100%);
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    right: -0.2%;
+    top: 0;
+    font-weight: 500;
+  }
+}
+.cardFirstSectionPage{
+  border-bottom: 1px solid @cardFirstSection;
+  padding:0 0 0 10px;
+    h6{
+      font-size: 0.8rem;
+      color: darken(@cardFirstSection,50%);
+    }
+  .iconGroupFirstPageCard{
+    font-size: 0.7rem;
+    margin-left: 4%;
+    color: darken(@cardFirstSection,20%);
+    .typeJob{
+      .textMixin
+    }
+  }
+
+}
+
+.cardCustomSection{
+  transform: translateY(-53px);
+  h6{
+    color: darken(@cardFirstSection,50%);
+
+  }
+  .cardCustomEmergency{
+    padding: 20px;
+    border: 1px solid @cardFirstSection;
+    border-radius: 3px;
+    margin-right: 1%;
+    button{
+      height: 72%;
+      padding: 2% 5%;
+    }
+  }
+}
+.informationInCard{
+  h4 {
+    font-size: 0.8rem;
+    color: @cardTitleColor;
+    transition: all 0.5s ease;
+    cursor: pointer;
+    &:hover{
+      color:darken(@cardTitleColor,20%);
+    }
+    .textMixin
+  }
+    .iconGroupFirstPageCard{
+      color: darken(@cardFirstSection,30%);
+      span{
+        font-size: 0.8rem;
+    }
+  }
+}
+body.opportunity{
+    background-color: @backgroundOpportunity;
+}
+.modalTitle{
+  float: left;
+  margin-left: 4%;
+  margin-top: 2%;
+}
+.boxCard{
+  height: @heightCard;
+  line-height: @heightCard - 0.5rem;
+  background: #fff;
+  padding-right: 10px;
+  border-top: 1px solid @borderColorCards;
+  border-right: 5px solid @borderColorCards;
+  border-left: 1px solid @borderColorCards;
+  border-bottom: 1px solid @borderColorCards;
+  color: @navbarBackGroundColor;
+}
+.boxCardOpportunity{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  height: auto;
+  line-height: 2rem;
+  .nameInfoOpportunity{
+    font-size: 0.9rem;
+    color: @blackColor;
+  }
+  .textMixin;
+  .parentImage{
+    .parentImage(70px,70px);
+    margin: 8% 0;
+    img{
+      .image(100%,100%);
+      object-fit: cover;
+    }
+  }
+  .titleJobOpportunity{
+    font-size: 1.3rem;
+    color: #3AB1E4;
+    .textMixin;
+  }
+  .buttonGoup{
+    margin: 10% 10% 0 0;
+    .btnCustom{
+      padding: 0.5rem 2rem;
+      margin-top: 8%;
+    }
+  }
+}
+
+.btn-md{
+  padding: 0.55rem 1rem;
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
+}
+.userFilterBox{
+  border: 1px solid @backgroundOpportunity;
+  .titleBox{
+
+    position: relative;
+    .titleFilter{
+      color: @blackColor;
+    }
+    i:nth-child(1){
+      color: darken(@backgroundOpportunity,30);
+
+    }
+    i.fa-angle-up{
+      color: darken(@backgroundOpportunity,30);
+      font-size: 1.5rem;
+    }
+    &::after{
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 2px;
+      background-color: @backgroundOpportunity;
+      content: '';
+      width: 100%;
+    }
+
+  }
+  .parentCheckBoxGroup{
+    padding: 5%;
+    margin-top: 2%;
+    margin-right: 4%;
+    .checkboxGroup{
+      margin-bottom: 3%;
+      span{
+        font-size: 0.99rem;
+        color: @blackColor;
+        margin-right: 1%;
+      }
+    }
+  }
+}
+.Responsive{
+  width: 100% !important;
+}
+.aboutUs{
+  background: @backgroundOpportunity;
+}
+.pictureParentAboutUs{
+  .parentImage(100%,100vh);
+  background-image:linear-gradient(to bottom, #1400ff1f, #ffffff5c), url("../images/tehran.jpeg") ;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  .infoAboutUs{
+    background: #000000ab;
+    margin-top: 5%;
+    border-radius: 7px;
+    height: 60%;
+    p{
+      color: #fff;
+      text-align: match-parent;
+      padding: 3%;
+    }
+  }
+  }
+#opportunityPageProduct{
+  &:extend(body.opportunity);
+}
+.boxOpportunity{
+  height: auto;
+  background: #fff;
+  margin-top: 1rem;
+  padding: 0 1.2rem 2rem 0;
+  h1{
+    padding: 1rem 0 0 0;
+    color: @blackColor;
+    font-size: 1.8rem;
+  }
+  .underlineTitle{
+    height: 5px;
+    border-bottom: 1px dashed darken(@backgroundOpportunity,20%);
+  }
+  .rightSpacer{
+    margin-right: 30%;
+  }
+  .titleInfo{
+    color: @blackColor;
+    font-size: @fontSizeLabelOpportunity+2;
+  }
+  .variableInfo{
+    background: #555;
+    border-radius: 3px;
+    font-size: @fontSizeLabelOpportunity;
+  }
+
+}
+.titleDetailOpportunity{
+  margin-right: (@rightSpace / 2);
+  margin-top: 5%;
+}
+.informationPart{
+  margin-right: (@rightSpace / 2);
+  line-height: 29px;
+  text-align: match-parent;
+}
+.customPart{
+  margin-top: 1%;
+}
+.contactUs{
+  &:extend(body.opportunity);
+}
+.contactUsTitle{
+  font-size: 1.5rem;
+  margin-top: 5%;
+  color: darken(@backgroundOpportunity,30%);
+}
+.address{
+  color: darken(@backgroundOpportunity,30%);
+  margin-top: 3%;
+}
+.phone{
+  &:extend(.address);
+}
+.parentImageContactUs{
+  .parentImage(50%,50%);
+  img{
+    .image(100%,100%);
+  }
+}
+.imageParentFave{
+  .parentImage(22%,69%);
+  img{
+    .image(100%,100%);
+  }
+}
+.btnInformationFav{
+  margin-right: 41%;
+}
+.emptyMessage{
+  height: 23rem;
+  background-color: darken(@backgroundOpportunity,30%);
+  border-radius: 7px;
+  h3{
+    color: @colorNavbarItem;
+    padding-top: 6%;
+  }
+  p{
+    color: @colorNavbarItem;
+    padding: 2%;
+  }
+}
+.colorSavedCart{
+  background-color: lighten(@cardFirstSection,10%);
+}
+.parentImageSaved{
+  .parentImage(80px,79px);
+  img{
+    .image(100%,100%)
+  }
+}
+.writeSpaceSave{
+  margin-right: 18%;
+}
+.btn-customSaved{
+  height: 50%;
+}
+
+
+
+//media Query
+@media (max-width: 1120px) {
+  @media(min-width: 992px){
+    .btnInfo{
+      padding: 10% 2%;
+    }
+
+  }
+}
+@media (max-width: 990px){
+  .userFilterBox .parentCheckBoxGroup .checkboxGroup {
+    margin-top: -11%;
+  }
+  .solgonSection{
+    .parentSloganImageImg{
+      .solganBanner{
+        width: 84%;
+      }
+    }
+  }
+  .cardCompany{
+    flex-wrap: wrap;
+  }
+
+}
+@media (max-width: 749px){
+  .solgonSection{
+    .parentSloganImageImg{
+      .solganBanner{
+        width: 100%;
+        h2 {
+          font-size: 1.4rem;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 749px){
+  .CompanyName{
+    font-size: 0.7rem !important;
+  }
+}

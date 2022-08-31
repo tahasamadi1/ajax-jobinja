@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<joblist>
+    <jobs>
+        <job id="0101">
+            <title>برنامه‌نویس Asp.net Core</title>
+            <companyname>توسعه ابزار بازار سرمایه</companyname>
+            <city>اصفهان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>ما برای تکمیل تیم های توسعه نرم افزار، در حال جذب توسعه دهنده ارشد asp.net core هستیم و برای این منظور، در جستجوی فردی پر انرژی، خلاق و متخصص هستیم. اگر تمایل دارید در یک تیم حرفه‌ای و صمیمی فعالیت کنید، ما مشتاقانه منتظر شما هستیم.</discribtion>
+            <aboutcompany>بازار سرمایه ایران در مسیر پیشرفت، نیاز به توسعه ابزارها در زمینه فناوری اطلاعات دارد. امری که مارا بر آن داشت تا با تکیه بر دانش فعالان هر دو صنعت در سال 1398 اقدام به تاسیس شرکت «توسعه ابزار بازار سرمایه» نماییم.
+                ما معتقدیم برای موفقیت در این مسیر پرچالش نیروی انسانی کارآمد و متعهد یکی از اساسی ترین نیازهای مجموعه ما خواهد بود و از این رو سعی بر آن داشته و داریم تا تمامی شاخص‌های انگیزشی کوچک و بزرگ و خدمات رفاهی را برای همکاران خود فراهم آوریم تا از فعالیت در محیطی پویا و حرفه‌ای لذت ببرند.
+                TSE TAB مجموعه‌ای پویا متشکل از افراد بسیار توانمند است که فرصت همکاری در آن موجب یادگیری و پیشرفت در کنار همکاران صمیمی و در عین حال وظیفه‌شناس خواهد شد و همچنین اشتغال در محیطی جذاب با امکانات رفاهی و تفریحی هیجان‌انگیز کار را برای افراد لذت‌بخش و دلچسب می‌کند.</aboutcompany>
+            <skills>
+                <skill>ASP.NET Core</skill>
+                <skill>RestFul API</skill>
+                <skill>EF Core</skill>
+                <skill>OOP</skill>
+                <skill>SOLID</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0102">
+            <title>مدیر دیجیتال مارکتینگ</title>
+            <companyname>راست چین</companyname>
+            <city>اصفهان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>مسل به مهارت های قسمت مهارت های مورد نیار</discribtion>
+            <aboutcompany>راست چین اولین و بزرگترین مارکت پلیس محصولات وردپرسی ایران
+
+                استراتژی راست چین فراهم کردن راهکار مطمئن، سریع و ارزان برای راه اندازی و توسعه وب سایت است که در این بین به عنوان رهبر بازار بیش از نیمی از نیاز کشور را مرتفع کرده است.
+
+                در راست چین می توانید سریع رشد کنید یاد بگیرید و در محیط حرفه ای و با انگیزه کار کنید
+                دفاتر ما: تهران، خ مطهری - تبریز، خ امام ، شهرکرد خ کاشانی
+
+                آخرین فرصت های شغلی راست چین در آدرس : https://careers.rtl-theme.com</aboutcompany>
+            <skills>
+                <skill>Digital Marketing</skill>
+                <skill>دیجیتال مارکتینگ</skill>
+                <skill>Google Analytics</skill>
+                <skill>google tag manager</skill>
+            </skills>
+            <gender>مرد</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0103">
+            <title>عکاس</title>
+            <companyname>گالری تاج‌آبادی</companyname>
+            <city>اصفهان</city>
+            <contracttype>کاراموزی</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>ما در مجموعه گالری تاج‌آبادی به یک همکار با انگیزه نیاز داریم تا در بخش عکاسی و تولید محتوای گالری به ما کمک کنه</discribtion>
+            <aboutcompany>گالری تاج‌آبادی در زمینه طلا و جواهر در بازار تهران فعالیت میکند</aboutcompany>
+            <skills>
+                <skill>عکاسی</skill>
+                <skill>فیلمبرداری</skill>
+                <skill>تدوین و ویرایش ویدیو</skill>
+                <skill>موشن گرافیک</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0104">
+            <title>استخدام (Senior Front-End Developer (React</title>
+            <companyname>مدیریت خاوری اطلاعات و ارتباطات وصل</companyname>
+            <city>همدان</city>
+            <contracttype>دورکاری</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>توانایی مهارت های قسمت مهارت های مورد نیاز</discribtion>
+            <aboutcompany>ما آینده رو دنبال می‌کنیم
+                در این مسیر با همکارانی متخصص، خلاق، ایده پرداز و پر تلاش همراه شدیم و با برنامه‌ریزی بلند مدت و تفکری متفاوت خود را برای ورود به بازارهای بین المللی آماده می کنیم.
+                این طرز فکر نامحدود به ما کمک کرده که محصولات، راه‌حل‌ها و پلتفرم‌هایی را برای ارائه خدمات خاص به مشتریانمان فراهم کنیم.</aboutcompany>
+            <skills>
+                <skill>React</skill>
+                <skill>Front-end</skill>
+                <skill>API</skill>
+                <skill>CSS</skill>
+                <skill>HTML</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0105">
+            <title>استخدام مدیر بازاریابی و توسعه محصولات(خانم)</title>
+            <companyname>پایپ کالا</companyname>
+            <city>اصفهان</city>
+            <contracttype>دورکاری</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>استارتاپ پایپ کالا از سال ۱۳۹۲ در حوزه متریال پایپینگ فعالیت مینماید ، هم اکنون و با توجه به طرح های توسعه پیش تصمیم داریم تیم بازاریابی و توسعه محصول خود را تقویت نماییم به همین دلیل نیاز به همکاری با مدیری تحصیل کرده در حوزه بازاریابی داریم خواهشمند است موارد زیر را بررسی نموده و در صورتی که خود را واجد شرایط میبینید رزومه خود را برای ما ارسال کنید .</discribtion>
+            <aboutcompany>پایپ کالا , یک سایت اینترنتی مرجع لوله و اتصالات ساختمانی و صنعتی است که علاوه بر اطلاع رسانی , فروش محصولات تاسیسات را نیز انجام میدهد .
+                ما یک گروه کوچک , فعال و در حال رشد هستیم . تمام اعضای اصلی پایپ کالا جوان و مشتاق یادگیری هستند .
+                اگر جوان , باهوش , مشتاق یادگیری و کسب تجربه کاری و علاقمند به کار تیمی هستید با ما همراه شوید.</aboutcompany>
+            <skills>
+                <skill>مدیریت بازاریابی</skill>
+                <skill>استراتژی بازاریابی</skill>
+                <skill>توسعه محصول</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0106">
+            <title>استخدام طراح گرافیک وب</title>
+            <companyname>باگلوس</companyname>
+            <city>اصفهان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>قوانین و فرآیندهای کاری ما مبتنی بر استانداردهای اروپایی می باشد و اگر می خواهید به ما بپیوندید می بایست ویژگیهای زیر جزئی از شخصیت شما باشد:</discribtion>
+            <aboutcompany>شرکت باگلوس در سال ۲۰۰۶ در کشور هلند تأسیس شد. فعالیت خود را از سال ۲۰۱۴ در ایران، با هدف تشکیل، تمرکز و توسعه تیم جوان ایرانی در زمینه طراحی وب سایت، وب اپلیکیشن، موبایل اپلیکیشن، کنترل کیفیت و مشاوره در منطقه غرب تهران (گیشا) آغاز کرده است. پروژه های باگلوس از سراسر اروپا بوده و توسط تیم های ما در اروپا و ایران انجام می شود. برای نیل به این هدف از افراد مستعد، خلاق، مشتاق، قابل اعتماد و با تجربه دعوت به همکاری می نماییم.</aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill>UI UX</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0107">
+            <title>استخدام Full-Stack (JavaScript) Developer</title>
+            <companyname>هال حمل کالا</companyname>
+            <city>شیراز</city>
+            <contracttype>کاراموزی</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>ما در افق فرا ویژن به یک مدیر سایت با تجربه با مهارت های زیر برای نگهداری و توسعه وب سایت های شرکت و شبکه های اجتماعی نیازمندیم. اگر شرایط ذکر شده را دارید خوشحال میشیم برای ما رزومه ارسال نمایید.</discribtion>
+            <aboutcompany>Merchain یک استارت اپ آلمانی توسعه و تکنولوژی است که در حوزه ارتباطات و زنجیره تامین فعالیت میکند. این پلتفرم در بستر یک فضای دیجیتال و با نوسازی و بهبود فرایند تامین و حمل کالا و خدمات در حوزه تجارت بین الملل موجب باز تعریف این اکو سیستم می شود. همچنین با ارتقای ابزارهای ارتباطی و بهبود فرآیندها میان شرکت کنندگان در زنجیره تامین، زمینه ارتباط دیجیتال و انتقال اطلاعات را فراهم میکند.
+                از جمله مزایای این شرکت ساعت کاری منعطف، کار کردن در محیطی صمیمی و دوستانه به همراه تیم جوان و پویا و موقعیت مکانی با دسترسی مناسب می باشد.
+                در چنین محیطی فرصت یادگیری، رشد علمی و مهارتی و امکان رشد فردی برای شما فراهم است و شما با کاری جذاب و چالشی و همکاری با یک تیم فنی خلاق روبرو خواهید شد.</aboutcompany>
+            <skills>
+                <skill>Javascript</skill>
+                <skill>Full-stack</skill>
+                <skill> MongoDB</skill>
+                <skill>HTML</skill>
+                <skill>CSS</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0108">
+            <title>استخدام کارشناس فروش و بازاریابی</title>
+            <companyname>فیدیلیو</companyname>
+            <city>اصفهان</city>
+            <contracttype>دورکاری</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>مجموعه فیدیلیو قصد دارد برای تکمیل کادر فروش و بازاریابی خود از عزیزانی که تجربه در زمینه فروش و بازاریابی خدمات آنلاین دارند دعوت به همکاری بعمل آورد .</discribtion>
+            <aboutcompany>فیدیلیو برندی شناخته شده در حوزه غذا، نوشیدنی و شیرینی است. تمرکز اصلی فیدیلیو پیرامون ایجاد پایگاه داده کاملی از فعالین این حوزه و بهره گیری از UGC برای شکل دادن پلتفرم اجتماعی پیرامون آن است. فیدیلیو همیشه در بکارگیری تکنولوژی های جدید در راستای کسب اهداف کسب و کار پیشرو بوده است.
+                در فیدیلیو تیمی از متخصصین با فضایی حرفه ای، دوست داشتنی و پویا در کنار هم برای خلق تجربه ای لذت بخش برای کاربران، با یکدیگر همکاری می کنند. روحیه حل مسئله، مسئولیت پذیری در فیدیلیو از اهمیت بالایی برخوردار است.</aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>Microsoft Office</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0109">
+            <title>استخدام طراح گرافیک</title>
+            <companyname>خدمات درمانی، پزشکی و سلامت</companyname>
+            <city>کرمان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>اگر فرد منظم و خلاقی هستی و به نرم افزارهای زیر مسلطی و همچنین به عکاسی و ادیت فیلم هم علاقه‌مندی، جات پیش ما خالی هست.</discribtion>
+            <aboutcompany>شرکت دانش بنیان نبض هوشمند سلامت، مجموعه اي فعال در زمینه طراحی و تولید تجهیزات پزشکی است. یکی از محورهای اصلی تفکرات نبض، کمک گرفتن از نیروهای جوان و با انگیزه در راستای استفاده از تکنولوژی و به‌کار‌گیری خلاقیت برای تولید محصولاتی جدید است که نیازهایی واقعی را از مخاطب برطرف کنند. اگر فكر ميكنيد كه دوست داريد در يك محيط پويا و پرچالش اتفاقات بزرگی را رقم بزنيد و با مشكلات پيچيده مواجه شويد، ما در نبض بی صبرانه منتظر شما هستيم.</aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill>Illustrator</skill>
+                <skill>Photoshop</skill>
+                <skill>After Effects</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0201">
+            <title>برنامه‌نویس ارشد Senior iOS Developer) iOS-دورکاری)</title>
+            <companyname>کامیونر</companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>مجموعه آرک در کنار متخصصین حوزه توسعه نرم‌افزار با تمرکز بر پیاده سازی مجموعه نرم‌افزاری یکپارچه و اتوماسیون محور به دنبال ایجاد زیرساختی غنی جهت مدیریت منابع شرکت‌های کوچک و متوسط است.</discribtion>
+            <aboutcompany>شرکت کامیونر از سال 2011 در کشور انگلستان آغاز به کار کرده است و از آن زمان تاکنون شرکتهای زیادی از خدمات برون سپاری این شرکت استفاده کرده اند.</aboutcompany>
+            <skills>
+                <skill>GIS</skill>
+                <skill>SQLite</skill>
+                <skill>RDBMS</skill>
+                <skill>IOS</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0202">
+            <title>استخدام طراح گرافیک (Graphic Designer)</title>
+            <companyname>ادیسه</companyname>
+            <city>کرمان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>گروه ادیسه ”West Coast Odyssey Enterprise Inc" با بهره‌مندی از مشاوران مجرب در توسعه کسب‌وکار و استارتاپ در سال 2004 با افتتاح دفتر ونکوور، به طور رسمی فعالیت خود را در زمینه مشاوره امور توسعه تجارت در کشورهای کانادا و انگلستان آغاز نمود.</discribtion>
+            <aboutcompany>این گروه با توسعه کسب‌وکار خود در زمینه نوآوری و شتابدهی استارتاپ‌ها، موفق به گسترش ایده‌های نوآورانه‌ای نیز شده است.
+            </aboutcompany>
+            <skills>
+                <skill>Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>طراحی</skill>
+                <skill>طراحی گرافیک </skill>
+                <skill>After Effects</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0203">
+            <title>استخدام کارشناس فروش حضوری</title>
+            <companyname>داده کاوان امیرکبیر</companyname>
+            <city>کرمان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>شرکت داده کاوان امیرکبیر در سال 1389 توسط عده ای از فارغ التحصیلان دانشگاه صنعتی امیرکبیر فعالیت خود را شروع کرده و در این مدت پروژه های بسیاری برای وزارت خانه ها، شهرداری ها، بیمارستان و مراکز درمانی به اجرا رسانده است. کلیدی ترین سرویس قابل ارائه ما نرم افزار مدیریت مطب و کلینیک آنلاین بقراط می باشد که شامل</discribtion>
+            <aboutcompany>ماژول های کاربردی مورد نیاز در جهت مدیریت مطب ها و مراکز درمانی با ‏نگرش کاهش هزینه های سربار و افزایش بازدهی حضور در مطب و کلینیک کادر درمان می باشد.‏</aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش حضوری</skill>
+                <skill>فروش و بازاریابی</skill>
+                <skill>فروش</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0204">
+            <title>استخدام برنامه‌نویس ارشد PHP / Laravel</title>
+            <companyname>جیبی‌مو</companyname>
+            <city>همدان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>جیبی‌مو به دنبال یک توسعه‌دهنده ارشد PHP / Laravel است که قادر باشد نرم‌افزارهای سازمانی و بزرگ این شرکت را با استفاده از تکنولوژی‌های روز دنیا توسعه داده و نگه‌داری نماید. به عنوان یک توسعه دهنده ارشد PHP شما نرم‌افزارهای مالی بزرگ و با عملکرد بالایی با PHP خواهید نوشت که با گذشت زمان گسترش خواهند یافت. شما عضوی از یک تیم نوآور و با آینده‌ای درخشان می‌شوید که پاسخ‌گوی تمام جنبه‌های توسعه‌ی نرم‌افزار شامل مراحل اولیه تا توسعه، تست و انتشار نرم‌افزار خواهید بود. این نقش شامل فعالیت‌های زیر است:</discribtion>
+            <aboutcompany>شرکت دانش‌بنیان نوآوران راهبرد سپهر پایا (جیبی‌مو) در سال ۱۳۹۶ فعالیت خود را در زمینه ارائه و اجرای راهکارهای نوین در صنعت فناوری‌های مالی (فین‌تک) با پشتوانه چندین سال تجربه فنی و مدیریتی مؤسسین خود آغاز نمود. جیبی‌مو در تلاش است که صنعت پرداخت و بانکداری الکترونیک را به کمک متخصصین و جوانان خلاق، با‌ انگیزه و توانمند به سطح جهانی رسانده و با تحولی دیجیتال، مفهومی نوین از ارز اجتماعی و پرداخت نامرئی را برای کاربرانمان به ارمغان آورد.</aboutcompany>
+            <skills>
+                <skill>PHP</skill>
+                <skill>Laravel</skill>
+                <skill>RestFul API</skill>
+                <skill>Git</skill>
+                <skill>دیتابیس</skill>
+                <skill>Scrum</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0205">
+            <title>استخدام عکاس(خانم)</title>
+            <companyname>ماتریس</companyname>
+            <city>همدان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>شرکت ماتریس به عنوان نمایندگی رسمی برند های معتبر جهانی از جمله MSI در ایران و تنها تولید کننده لپ تاپ و رایانه های بدون کیس در ایران بوده و طی دهه های متمادی یکی از شرکت های پیشرو در زمینه فناوری اطلاعات می باشد.</discribtion>
+            <aboutcompany>شرکت ماتریس به عنوان نمایندگی رسمی برند های معتبر جهانی از جمله MSI در ایران و تنها تولید کننده لپ تاپ و رایانه های بدون کیس در ایران بوده و طی دهه های متمادی یکی از شرکت های پیشرو در زمینه فناوری اطلاعات می باشد.</aboutcompany>
+            <skills>
+                <skill>عکاسی</skill>
+                <skill>ویرایش عکس</skill>
+                <skill>نورپردازی</skill>
+                <skill>Photoshop</skill>
+                <skill>فتوشاپ</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0206">
+            <title>استخدام برنامه‌نویس Front-End</title>
+            <companyname>سفیر ارتباط</companyname>
+            <city>همدان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>شرکت سفیر ارتباط (ویرا) جهت تکمیل تیم برنامه نویسی خود از برنامه نویسان و طراحان واسط کاربری دعوت به همکاری می نماید .
+            </discribtion>
+            <aboutcompany>شرکت سفیر ارتباط (ویرا) ، سابقه چندین ساله در تولید نرم افزار در سازمان های با مقیاس کشوری داره .
+                حدود 7 سال هست که در قالب قراردادهای ۵ ساله مشغول به تولید ERP هستیم،و انتهای آبان 1399 قرارداد ۵ ساله دوم شروع شد .</aboutcompany>
+            <skills>
+                <skill>ّFront-end</skill>
+                <skill>HTML</skill>
+                <skill>CSS</skill>
+                <skill>Javascript</skill>
+                <skill>jQuery</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>تمام وقت</certificate>
+        </job>
+        <job id="0207">
+            <title>استخدام مدیر مارکتینگ</title>
+            <companyname>سورنا فارمد</companyname>
+            <city>اصفهان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>در بخش پورتفولیو، استارت اپ های مختلفی وجود دارند که هر کدام به صورت تخصصی در حوزه های آموزش، کارآفرینی، منابع انسانی، رسانه و تحقیق و توسعه فعالیت می کنند.</discribtion>
+            <aboutcompany>کارخانه ها، شرکت های داروسازی و غذایی داخل و خارج از کشور مشتریان و مخاطبان سورنا فارمد هستند و شرکت سورنا فارمد افتخار می کند که همکارانی نخبه و حرفه ای در داخل و خارج از کشور جمع شده اند تا رویای یک شرکت بین المللی در حوزه ی سلامت را به واقعیت تبدیل کنند.</aboutcompany>
+            <skills>
+                <skill>مدیریت مارکتینگ</skill>
+                <skill>ستراتژی بازاریابی</skill>
+                <skill>اصول و فنون مذاکره</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0208">
+            <title>استخدام گرافیست ارشد</title>
+            <companyname>فن کام</companyname>
+            <city>همدان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>هلدینگ فن کام فعال در زمینه های تولید،خدمات،تجارت الکترونیک،کسب و کارهای آنلاین
+                هلدینگ فن کام فعالیت‌ هایش را در حوزه‌ های مختلفی گسترش داده و اقدام به تأسیس شرکت‌ها و همچنین ایجاد هلدینگ در زمینه‌ های مختلف از جمله آرایشی و بهداشتی ، دارویی، صنعتی و تولیدی نموده است.
+                فن کام با بهره گیری از کارشناسان متخصص، منابع نیروی انسانی با تجربه در مسیر رشد و کارآفرینی در بخش خصوصی کشور تلاش دارد تا شرکتهای زیر مجموعه را به بازیگران اصلی صنایع خود بدل نماید.</discribtion>
+            <aboutcompany>در این راستا علاقه مندیم تا سرمایه های انسانی جوان،نخبه و با انگیزه را در با خود همراه ساخته و در مسیر اهداف مشترکمان رشد نماییم.
+                اگر سختکوش و پویا هستید،قدرت بالایی در حل مسئله دارید ، به دنبال فضایی برای رشد و شکوفایی پتانسیل هایتان میگردید جای شما در سازمان ما خالیست.</aboutcompany>
+            <skills>
+                <skill>Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>طراح گرافیک</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0209">
+            <title>استخدام برنامه‌نویس ارشد (PHP (Laravel</title>
+            <companyname>فرازپردازان </companyname>
+            <city>همدان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>شرکت فرازپردازان در سال ۱۳۸۹ توسط جمعی از فارغ التحصیلان دانشکده مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیر (پلی تکنیک تهران) به طور رسمی شروع به کار نمود. فعالیت فرازپردازان در کشور عزیزمان ایران با نام تجاری فرازپردازان بیتی آرون با تکیه بر دانش و تخصص بومی در زمینه‌های نو و کاربردی فناوری اطلاعات در طول هفت سال گذشته ادامه یافت. در حال حاضر فرازپردازان بر روی تولید اپلیکیشن ها و سامانه های مرتبط با صنعت پرداخت و بانکداری الکترونیک و شبکه های اجتماعی کاربردی تمرکز دارد.</discribtion>
+            <aboutcompany>شرکت فرازپردازان در سال ۱۳۸۹ توسط جمعی از فارغ التحصیلان دانشکده مهندسی کامپیوتر و فناوری اطلاعات دانشگاه صنعتی امیرکبیر (پلی تکنیک تهران) به طور رسمی شروع به کار نمود. فعالیت فرازپردازان در کشور عزیزمان ایران با نام تجاری فرازپردازان بیتی آرون با تکیه بر دانش و تخصص بومی در زمینه‌های نو و کاربردی فناوری اطلاعات در طول هفت سال گذشته ادامه یافت. در حال حاضر فرازپردازان بر روی تولید اپلیکیشن ها و سامانه های مرتبط با صنعت پرداخت و بانکداری الکترونیک و شبکه های اجتماعی کاربردی تمرکز دارد.
+            </aboutcompany>
+            <skills>
+                <skill>Javascript</skill>
+                <skill>OOP</skill>
+                <skill>MVC</skill>
+                <skill>PHP</skill>
+                <skill>Laravel</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0301">
+            <title>استخدام Senior Front-End Developer</title>
+            <companyname>فناوری‌های علوم داده حسابا</companyname>
+            <city>شیراز</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>در حسابا، خیلی اوقات نیاز است تا سرویس‌هایی داده‌محور بنویسیم و بالا بیاوریم تا افراد مرتبط، به راحتی بتوانند کارهای مختلف خود را روی سرویس انجام دهند. برای نوشتن چنین سرویس‌هایی، کلی چالش جذاب فنی و مهندسی، از Back-End گرفته تا Front-End داریم.</discribtion>
+            <aboutcompany>علاقه‌مند به یادگیری: در علوم داده هم مثل خیلی از حوزه‌های فناوری و دانش، ابزارها و دانش‌ها دائما در حال تحول و پیشرفت هستند. به همین دلیل، علاقه به یادگیری فناوری‌های جدید یکی از توانایی‌های مهم یک حسابایی است که می‌خواهد همیشه با استانداردهای بالا کارهایش را انجام دهد.</aboutcompany>
+            <skills>
+                <skill>Redux</skill>
+                <skill>ReactJS</skill>
+                <skill>Javascript</skill>
+                <skill>Front-end</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0302">
+            <title>استخدام کارشناس فروش و بازاریابی</title>
+            <companyname>گروه املاک آرکا</companyname>
+            <city>قزوین</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>گروه املاک آرکا نماینده فروش انحصاری پروژه های حاج رحیم قربانی با بیش از ۵ هزار واحد در حال ساخت و ۳ هزار واحد آماده در حوضه املاک</discribtion>
+            <aboutcompany>گروه املاک آرکا نماینده فروش انحصاری پروژه های حاج رحیم قربانی با بیش از ۵ هزار واحد در حال ساخت و ۳ هزار واحد آماده در حوضه املاک</aboutcompany>
+            <skills>
+                <skill>فروش و بازاریابی</skill>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0303">
+            <title>استخدام طراح گرافيست(آقا)</title>
+            <companyname>استدیو تبلیغاتی آرتیم</companyname>
+            <city>کرمان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>این کار به صورت تمام وقت (شنبه تا پنج شنبه) و به صورت حضوری (محدوده ی ستارخان میدان صحرایی) می باشد لطفا در صورتی که امکان فعالیت در این منطقه رو ندارید از ارسال رزومه حتما خوداری بفرمایید .</discribtion>
+            <aboutcompany>مجموعه تدی شاپ دارای سه شعبه در شهر تهران ستارخان و غرب تهران می باشد و در فروشگاه تدی شاپ انواع اسباب بازی ها و ماشین های شارژی و موتور های شارژی ارائه می شود .</aboutcompany>
+            <skills>
+                <skill>نورپردازی</skill>
+                <skill>Photoshop</skill>
+                <skill>ادیت عکس </skill>
+                <skill>عکاسی</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کازشناسی</certificate>
+        </job>
+        <job id="0304">
+            <title>استخدام برنامه‌نویس فرانت اند ( Front-End)</title>
+            <companyname>گسترش ارتباطات نوین </companyname>
+            <city>شیراز</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>بیش از شش سال</workexperience>
+            <discribtion></discribtion>
+            <aboutcompany>شرکت گسترش ارتباطات نوین در زمینه توسعه نرم افزار و برنامه نویسی فعالیت دارد</aboutcompany>
+            <skills>
+                <skill>Front-end</skill>
+                <skill>HTML5</skill>
+                <skill>CSS3</skill>
+                <skill>Bootstrap</skill>
+                <skill>RestFul API</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>دیپلم</certificate>
+        </job>
+        <job id="0305">
+            <title>استخدام کارشناس فروش (خانم)</title>
+            <companyname>امن پایه ریزان کارن</companyname>
+            <city>تهران</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>امروز افتخار ما داشتن تیمی از متخصصان بومی بوده، که با سابقه خدمت رسانی درخشان و شایسته در سایه علم و دانش روز، در راستای اعتلای سطح دانش انفورماتیکی این کشور تلاش می نمایند. شرکت APK همواره کارآفرینی، حمایت از فرهیختگان کشور، جلب رضایتمندی کارفرمایان و استفاده از تکنولوژی های روز دنیا در کنار تجربیات بزرگ را خط مشی خود قرارداده و در مسیر دستیابی به این اهداف، با تکیه بر اصل راهکارهای خلاقانه پیشرو بوده است.</discribtion>
+            <aboutcompany>کیونپ، سرواژه کلمات Quality Network Appliance Provider، به فراهم سازی راهکارهای جامعی از توسعه نرم افزار و طراحی سخت افزار گرفته تا تولیدات درون سازمانی اختصاص یافته است. این شرکت با تمرکز بر روی نوآوری در زمینه های ذخیره سازی، شبکه و ویدئوی هوشمند در تلاش است یک اکوسیستم تکنولوژی بر مبنای نرم افزار مبتنی بر subscription و کانال های خدمات متنوع ایحاد کند. شرکت QNAP سیستم های NAS را دستگاهی بیش از یک ذخیره ساز ساده در نظر گرفته و یک زیرساخت شبکه مبتنی بر ابر برای کاربرانش ایجاد کرده که برای هاست و توسعه آنالیز هوش مصنوعی، پردازش edge و یکپارچه سازی دیتا بر روی راهکارهای QNAP استفاده می شود</aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill> فروش و بازاریابی</skill>
+                <skill>بازاریابی</skill>
+                <skill>فروش</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0306">
+            <title>استخدام تصویربردار و تدوینگر</title>
+            <companyname>موسسه ماهان تیموری</companyname>
+            <city>تهران</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>گروه آموزشی ماهان تیموری، در سال 1395، توسط استاد ماهان تیموری بنیان گذار هوش مالی در ایران تاسیس شد. هدف از تاسیس این گروه آموزشی ، فعالیت در زمینه آموزش مسائل مالی و اقتصادی با تکیه بر توسعه فردی ، راه اندازی و رشد کسب و کار بوده و تا به امروز توانسته است بیش از سه میلیون نفر ساعت در این حوزه دانش پذیر داشته باشد.</discribtion>
+            <aboutcompany>در طول سالهای اخیر، این مجموعه آموزشی موفق به کسب افتخارات بسیاری در حوزه کارآفرینی و اشتغال زایی شده است که نمونه بارز آن را می توان در انتخاب استاد ماهان تیموری به عنوان کارآفرین برتر در طی سالهای 1397 تا 1399 اشاره کرد.
+                اما اگر به طور دقیق تر نگاهی به فعالیت های مجموعه داشته باشیم ، تمرکز اصلی مجموعه بر روی آموزش مهارت های مالی با عنوان " هوش مالی " است. اما در کنار مهارت هوش مالی ، این گروه آموزشی بر روی آموزش های اقتصادی، مهارت های فردی و همچنین کوچینگ نیز فعالیت های گسترده ای دارد.</aboutcompany>
+            <skills>
+                <skill>تصویربرداری</skill>
+                <skill>تدوین</skill>
+                <skill>After Effects</skill>
+                <skill>Photoshop</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0307">
+            <title>استخدام برنامه‌نویس PHP / Laravel) Back-End)</title>
+            <companyname>نوبت دات‌آی‌آر</companyname>
+            <city>شیراز</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>پابلیکا به دنبال توسعه نرم افزار و وبسایت تخصصی نشر تبلیغات اینترنتی٬ قصد دارد تا با جذب نیروهای فنی در سطوح مختلف اعم از متخصصین با سابقه کاری و تجربه بالا و همچنین فارغ التحصیلان با دانش فنی مورد نیاز جهت توسعه این محصولات کار خود را با پیش برد هرچه قدرتمند تر در این رسته ادامه دهد.
+                ما در پابلیکا بی صبرانه در انتظار ملاقات شما دوست متخصص هستیم.</discribtion>
+            <aboutcompany>نوبت دات آی آر یک سرویس خدمات پزشکی آنلاین است که از جمله امکانات آن میتوان به معرفی، دریافت ویزیت و مشاوره غیر حضوری بیمار از پزشک اشاره کرد. نوبت دات آی آر در حوزه سلامت جشنواره iwmf98 تندیس رتبه نخست را از هیئت داوران دریافت کرد.</aboutcompany>
+            <skills>
+                <skill>Back-end</skill>
+                <skill>Laravel</skill>
+                <skill>Laravel</skill>
+                <skill>MySQL</skill>
+                <skill>git</skill>
+                <skill>MariaDB</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>دیپلم</certificate>
+        </job>
+        <job id="0308">
+            <title>استخدام کارشناس فروش</title>
+            <companyname>آسیاموتور</companyname>
+            <city>کرمان</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion> کاملی از فعالین این حوزه و بهره گیری از UGC برای شکل دادن پلتفرم اجتماعی پیرامون آن است. فیدیلیو همیشه در بکارگیری تکنولوژی های جدید در راستای کسب اهداف کسب و کار پیشرو بوده است.
+                در فیدیلیو تیمی از متخصصین با فضایی حرفه ای، دوست داشتنی و پویا در کنار هم برای خلق تجربه ای لذت بخش برای کاربران، با یکدیگر همکاری می کنند. روحیه حل مسئله، مسئولیت پذیری در فیدیلیو از اهمیت بالایی برخوردار است.</discribtion>
+            <aboutcompany>آسیا موتور ، نمایندگی جهان همتا سیکلت (همتاز موتور ) فعال در زمینه فروش انواع موتور سیکلت بنزینی و برقی میباشد. که جهت تکمیل کادر پرسنلی خود در تهران از افراد واجد شرایط دعوت به عمل آورده است
+            </aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش و بازاریابی</skill>
+                <skill>فروش</skill>
+                <skill>بازاریابی</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0309">
+            <title>استخدام طراح اتوکد صنعتی</title>
+            <companyname>شیشه ایمنی شرق</companyname>
+            <city>کرمان</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>
+
+                استراتژی راست چین فراهم کردن راهکار مطمئن، سریع و ارزان برای راه اندازی و توسعه وب سایت است که در این بین به عنوان رهبر بازار بیش از نیمی از نیاز کشور را مرتفع کرده است.
+
+                در راست چین می توانید سریع رشد کنید یاد بگیرید و در محیط حرفه ای و با انگیزه کار کنید
+                دفاتر ما: تهران، خ مطهری - تبریز، خ امام ، شهرکرد خ کاشانی
+
+                آخرین فرصت های شغلی راست چین در آدرس : https://careers.rtl-theme.com</discribtion>
+            <aboutcompany>شرکت شیشه ایمنی شرق در سال 1372 در مشهد تاسیس شد و فعالیت تولیدی خود را در زمینه تولید شیشه های سکوریت ساختمانی و صنعتی مطابق با استانداردهای جهانی آغاز نمود.در سال 1374برای اولین بار در ایران موفق به کسب اولین نشان استاندارد ملی برای شیشه های سکوریت ساختمانی گردید.</aboutcompany>
+            <skills>
+                <skill>طراحی صنعتی</skill>
+                <skill>AutoCad</skill>
+            </skills>
+            <gender>مرد</gender>
+            <certificate>کارشناسی</certificate>
+        </job>
+        <job id="0401">
+            <title>استخدام UX Designer</title>
+            <companyname>رهپویان پردازش گستر صحرا</companyname>
+            <city>تهران</city>
+            <contracttype>پاره وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>شرکت رهپویان پردازش گستر صحرا در سال 1372 با هدف ایجاد بستر مناسب و همچنین خلا موجود در بازار سرمایه با رویکرد B2B (ارائه خدمات به کارگزاری‌ها و نه به کاربر بازار سرمایه) راه اندازی گردیده و به عنوان لیدر و اولین شرکت در حوزه OMS شروع به فعالیت نموده است. طراحی و ایجاد زیر ساخت کارگزاری‌ها با ایجاد نرم‌افزار ترید در حوزه اوراق و پس از آن بنا به درخواست سازمان بورس اوراق بهادار تولید نرم افزار آتی کالا با شروع معاملات کالا در بورس صورت پذیرفت. طراحی، برنامه‌ریزی و تولید آی‌بی‌شاپ به عنوان اولین درگاه ورود به صندوق‌های سرمایه‌گذاری و توسعه آن در حوزه‌های بیمه، کارت‌های اعتباری و .... از دیگر زمینه‌های فعالیت این شرکت می‌باشد. از دیگر محصول‌های قابل ارائه به کارگزاری‌ها سامانه بک آفیس بوده که این سامانه جامع تحت وب، جهت مدیریت امور کارگزاری‎ها است که این محصول می‌تواند کلیه فعالیت‌های مرتبط شامل عملیات سفارش‌های خرید و فروش، ثبت آنی معاملات کارگزاری، عملیات حسابداری، اطلاعات مشتریان و ... را اجرا نماید و همچنین سامانه صندوق امکان دسترسی به اطلاعات و خروجی‌های مورد نیاز صندوق‌های سرمایه‌گذاری با پشتیبانی از جدیدترین ابزارها، ارتباط با سرویس‌های بانکی و همچنین قابلیت گزارش‌گیری براساس نیاز مشتریان را مقدور می‌سازد.</discribtion>
+            <aboutcompany>تواند کلیه فعالیت‌های مرتبط شامل عملیات سفارش‌های خرید و فروش، ثبت آنی معاملات کارگزاری، عملیات حسابداری، اطلاعات مشتریان و ... را اجرا نماید و همچنین سامانه صندوق امکان دسترسی به اطلاعات و خروجی‌های مورد نیاز صندوق‌های سرمایه‌گذاری با پشتیبانی از جدیدترین ابزارها، </aboutcompany>
+            <skills>
+                <skill>ux</skill>
+                <skill>Sketch</skill>
+                <skill>Illustrator</skill>
+                <skill>Photoshop</skill>
+                <skill> Adobe XD</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0402">
+            <title>استخدام کارشناس فروش</title>
+            <companyname>تجهیزات پزشکی سدان</companyname>
+            <city>تهران</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>در فروشگاه تجهیزات پزشکی سدان نیازمند فروشنده با سابقه و ماهر هستیم
+                سدان دارای بزرگترین فروشگاه آنلاین تجهیزات پزشکی کشور هست و تعداد کمی همکار در فروشگاه مشغول به فعالیت هستند</discribtion>
+            <aboutcompany>شرکت تجهیزات پزشکی سدان با بیش از 15 سال سابقه در زمینۀ تولید, خرید و فروش لوازم پزشکی فعالیت داشته و برای استفاده هر چه بیشتر توانایی های خود قدم در دنیای مجازی گذاشته تا هموطنان بتوانند بسیار راحت تر از گذشته از محصولات ارزان قیمت و با کیفیت ما بهره مند گردند.</aboutcompany>
+            <skills>
+                <skill>فروش</skill>
+                <skill>فروش و بازاریابی </skill>
+                <skill>اصول و فنون مذاکره</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>دیپلم</certificate>
+        </job>
+        <job id="0403">
+            <title>استخدام گرافیست (خانم)</title>
+            <companyname>افراگرافیک </companyname>
+            <city>تهران</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>کانون آگهی و تبلیغاتی افراگرافیک در محدوده میدان توحید جهت تمکیل کادر خود، نیاز به طراح مسلط به فتوشاپ، ایندیزاین و ایلوستریتور دارد.
+                تجربه و آشنایی به امور چاپ از نیازهای شرکت می باشد.</discribtion>
+            <aboutcompany>کانون آگهی و تبلیغات افرانقش نوین ( با مجوز فرهنگ و ارشاد اسلامی)
+                کلیه امور مربوط به طراحی و چاپ</aboutcompany>
+            <skills>
+                <skill>Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>گرافیست</skill>
+                <skill>طراحی</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0404">
+            <title>استخدام iOS Developer</title>
+            <companyname>مدیریت فناوری اطلاعات و ارتباطات وصل</companyname>
+            <city>تهران</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion> ما آینده رو دنبال می‌کنیم و راه‌کارهایی را برای بهبود نیازهای مشتریان و محصولات خود پیدا می‌کنیم. این طرز فکر نامحدود به ما کمک کرده که راه‌حل‌ها و پلتفرم‌هایی را برای ارائه خدمات متنوع به مشتریانمان فراهم کنیم.
+            </discribtion>
+            <aboutcompany>ما آینده رو دنبال می‌کنیم
+                در این مسیر با همکارانی متخصص، خلاق، ایده پرداز و پر تلاش همراه شدیم و با برنامه‌ریزی بلند مدت و تفکری متفاوت خود را برای ورود به بازارهای بین المللی آماده می کنیم.
+                این طرز فکر نامحدود به ما کمک کرده که محصولات، راه‌حل‌ها و پلتفرم‌هایی را برای ارائه خدمات خاص به مشتریانمان فراهم کنیم.</aboutcompany>
+            <skills>
+                <skill>UIKIT</skill>
+                <skill>Objective-C</skill>
+                <skill>Xcode</skill>
+                <skill>Swift</skill>
+                <skill>IOS</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0405">
+            <title>استخدام مهندس فروش(حوزه برق و الکترونیک)</title>
+            <companyname>راد الکتریک بین الملل</companyname>
+            <city>اصفهان</city>
+            <contracttype>مهم نیست</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>مهندس فروش مسئول حفظ بازار فعلی و توسعه این بازار با هدف فروش بیشتر محصولات از طریق پاسخگو بودن موثر به مشتریان و پیگیری بالا و تسلط به رقبا می باشد. گزارش دهی این سمت به سرپرست فروش و مدیر عامل می باشد </discribtion>
+            <aboutcompany>بازرگانى راد الکتریک در سال 1354 تاسیس گردیده و با داشتن تجربه وسیع در بازار داخلى و جهانى، آماده جوابگویی جهت تشخیص قطعات مورد نیاز سازمان ها و ارگان ها می باشد. این شرکت، با داشتن تیمی متخصص و مجرب، موفق به اخذ نمایندگی رسمی و انحصاری بسیاری از کمپانی های اروپایی شده است ،از میان اصلی ترین مشتریان می توان صنایع زیر را نام برد.</aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>مهندسی فروش </skill>
+                <skill>فروش</skill>
+                <skill>فروش و بازاریابی</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>لیسانس</certificate>
+        </job>
+        <job id="0406">
+            <title>استخدام طراح ارشد گرافیک</title>
+            <companyname>سوشیانت </companyname>
+            <city>تهران</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>آژانس خلاقیت سوشیانت مفتخر است که با تفکر تحول‌گرا در عرصه مدیریت بر خط فعالیت‌ها، ارتباط با برندها و داشتن تخصص و تجربه کارشناسان مطرح کشورمان در پروژه‌های مهم در عرصه مشاوره و اجرا دیجیتال مارکتینگ در میهن عزیزمان تحول ایجاد نموده و همچنین در این راه ارزش افزوده بالایی را برای کارفرمایان و برندهای مطرح به ارمغان آورده است.
+            </discribtion>
+            <aboutcompany>خانواده‌ی آژانس دیجیتال مارکتینگ سوشیانت نیاز به یک عضو حرفه ای جدید برای طراحی دارد.
+            </aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill>طراحی</skill>
+                <skill>Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>After Effects</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0407">
+            <title>استخدام برنامه‌نویس .NET</title>
+            <companyname>ایران گره</companyname>
+            <city>شیراز</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>مجموعه ایران گره به منظور تسهیل ارتباط بین متخصصین فرش دستباف با یکدیگر از یک سو و ارتباط موثر و کاربردی علاقمندان فرش دستباف با متخصصین این هنر اصیل ایرانی از سویی دیگر، طراحی و پایه گذاری شده است. این مجموعه به صورت تخصصی در حوزه صدور شناسنامه فرش دستباف و خدمات آنلاین فرش دستباف فعالیت می کند.</discribtion>
+            <aboutcompany>مجموعه ایران گره به منظور تسهیل ارتباط بین متخصصین فرش دستباف با یکدیگر از یک سو و ارتباط موثر و کاربردی علاقمندان فرش دستباف با متخصصین این هنر اصیل ایرانی از سویی دیگر، طراحی و پایه گذاری شده است. این مجموعه به صورت تخصصی در حوزه صدور شناسنامه فرش دستباف و خدمات آنلاین فرش دستباف فعالیت می کند.</aboutcompany>
+            <skills>
+                <skill>Bootstrap</skill>
+                <skill>jQuery</skill>
+                <skill>Javascript</skill>
+                <skill>CSS</skill>
+                <skill>HTML</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم‌ نیست</certificate>
+        </job>
+        <job id="0408">
+            <title>استخدام طراح گرافیک</title>
+            <companyname>تیر خلاص</companyname>
+            <city>اراک</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی</discribtion>
+            <aboutcompany>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی</aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill> Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>corel</skill>
+                <skill>indesign</skill>
+            </skills>
+            <gender>مهم‌ نیست</gender>
+            <certificate>مهم‌ نیست</certificate>
+        </job>
+        <job id="0409">
+            <title>استخدام فروشنده فروشگاه</title>
+            <companyname>کادو رنگی</companyname>
+            <city>اراک</city>
+            <contracttype>نیمه وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>اگر جزو فروشندگان حرفه ای هستید و ویژگی های زیر را دارید ، خوشحال می شویم به خانواده کادورنگی بپیوندید.</discribtion>
+            <aboutcompany>فروشگاه کادورنگی مجموعه ای موفق در امر تهیه و فروش کالاهای دکوری و تزیینی است. یقینا بدست آمدن این موفقیت میسر نبوده، مگر با تلاش تیم جوان وهدفمندش.
+
+                استخدام نیرو برای شعبه های مرکز خرید اپال و مجتمع تجاری نگین ظفر می باشد
+
+                کادورنگی از افرادی که قصد دارند در جامعه مفید باشند، با آغوش باز استقبال میکند، به شرط آنکه اهداف مشترک داشته باشند.</aboutcompany>
+            <skills>
+                <skill>فروشندگی</skill>
+                <skill>اصول و فنون مذاکره </skill>
+                <skill>فروش و بازاریابی</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>دیپلم</certificate>
+        </job>
+        <job id="0501">
+            <title>استخدام Senior Back-End Developer</title>
+            <companyname>ارزدیجیتال </companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion> ما در ارز دیجیتال با حجم بالایی از ریکوئست در مدت زمانی کوتاه روبه‌رو هستیم. چنین شرایطی نیازمند طراحی و توسعه سامانه‌هایی با اسکیل و قابلیت گسترش بالا و هزینه نگهداری پایین با استفاده از ابزارهای روز دنیاست. شما با ملحق شدن به ارز دیجیتال، تجربه کار با هم‌تیمی‌های خلاق و بااستعداد را خواهید داشت که مسئولیت تحویل کدهای باکیفیت برای مدیریت میلیاردها ریکوئست ماهیانه را دارند. بنابراین به عنوان «Software Engineer » در ارز دیجیتال مسئولیت انجام وظایف زیر را به عهده خواهید داشت:</discribtion>
+            <aboutcompany>ارزدیجیتال پرمخاطب‌ترین وب‌سایت و رسانه تخصصی ارزهای دیجیتال و بلاک چین در ایران است.
+            </aboutcompany>
+            <skills>
+                <skill>Nodejs</skill>
+                <skill>PostgreSQL</skill>
+                <skill>Back-end</skill>
+                <skill>NoSQL</skill>
+                <skill>Django</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0502">
+            <title>استخدام کارشناس فروش</title>
+            <companyname>آسیاموتور</companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و</discribtion>
+            <aboutcompany>آسیا موتور ، نمایندگی جهان همتا سیکلت (همتاز موتور ) فعال در زمینه فروش انواع موتور سیکلت بنزینی و برقی میباشد. که جهت تکمیل کادر پرسنلی خود در تهران از افراد واجد شرایط دعوت به عمل آورده است
+            </aboutcompany>
+            <skills>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش و بازاریابی</skill>
+                <skill>فروش</skill>
+                <skill>بازاریابی</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0503">
+            <title>استخدام گرافیست و طراح</title>
+            <companyname>پویش رایان داتیس</companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و</discribtion>
+            <aboutcompany>شرکت داتیس فعالیت خود را در زمینه فروش و تجهیز پروژه های نظارت تصویری و مداربسته از سال 1392 آغاز کرده و در حال حاضر تجهیزات مداربسته برایتون را به سبد کالایی خود اضافه نموده است. از سال 1395 شرکت داتیس همکاری خود را با شرکت ال جی برای توزیع و فروش مانیتور های صنعتی و تجاری و ویدیو وال های ال جی آغاز و به عنوان نماینده برتر شرکت ال جی در ایران فعال است و در این حوزه شرکت داتیس سهم خوبی از بازار را در اختیار دارد.
+            </aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill>Photoshop</skill>
+                <skill>indesign</skill>
+                <skill>Adobe Premiere</skill>
+                <skill>Illustrator</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0504">
+            <title>استخدام برنامه‌نویس ارشد Senior PHP Developer) PHP)</title>
+            <companyname>میزگرد نرم‌افزار</companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <workexperience>مهم نیست</workexperience>
+            <discribtion>به چند نفر برنامه نویس حرفه ای و خلاق با روحیه بالای کار تیمی و اشتیاق خیلی زیاد به یادگیری مسلط به PHP برای کار در محیطی پویا به صورت Team Work نیازمندیم. برای کار کردن در این سمت باید به موارد زیر مسط باشید ‌:</discribtion>
+            <aboutcompany>میزگرد نرم افزار نماینده رسمی و انحصاری شرکت Round Table Apps استرالیا می باشد که در زمینه توسعه وب و موبایل در ایران در حال فعالیت است. این شرکت با گردآوری افراد با انگیزه و با تجربه، برنامه‌های بسیار متعددی را تا به حال در سطح جهانی ارائه کرده است. ما با تشکیل یک تیم مجرب در ایران و همکاری با تیمهای بزرگ و بین المللی در حال تولید پروژه های روز و سطح اول دنیا هستیم . در حال حاضر جهت تکمیل تیم ایران نیازمند نیروهای سطح بالا, خلاق, باتجربه و مشتاق به یادگیری تکنولوژی های روز می باشیم.
+            </aboutcompany>
+            <skills>
+                <skill>PHP</skill>
+                <skill>opp</skill>
+                <skill>MVC</skill>
+                <skill>Laravel</skill>
+                <skill>Git</skill>
+                <skill>MySQL</skill>
+                <skill>Postgres</skill>
+            </skills>
+            <gender>مهم‌ نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0505">
+            <title>استخدام کارشناس فروش تلفنی(خانم)</title>
+            <companyname>مرکز پخش کامیوتر</companyname>
+            <city>اراک</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>ما در کیان تجارت فیدار به دنبال تعدادی کارشناس فروش تلفنی جوان، پویا و با انگیزه هستیم که فروش و ارتباط با مشتری رو خوب بشناسه و بتونه به ما در توسعه و شکوفایی استراتژی‎‌های بلند مدتمون کمک کنه. در عوض فرصت اینو داشته باشه که رشد کنه و تو این مسیر ما هم همراهش باشیم. پس اگر دارای مهارت‌های مورد نظر ما هستید خوشحال میشیم با شما همکاری کنیم.
+            </discribtion>
+            <aboutcompany>این ماموریت را با جستجوی مرغوبترین قهوه و دیگر مواد اولیه با توجه به جدیدترین یافته های علمی در زمینه مواد غذایی در کنار استفاده از به روزترین فن آوری های موجود به انجام می رسانیم و با عرضه محصولاتی
+                متنوع سعی در تامین نیاز و رضایت طیف گسترده ای از مشتریان داریم.</aboutcompany>
+            <skills>
+                <skill>فروش تلفنی</skill>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش و بازاریابی</skill>
+                <skill>فروش</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کاردانی</certificate>
+        </job>
+        <job id="0506">
+            <title>استخدام طراح گرافیک (Graphic Designer-دورکاری)</title>
+            <companyname>پیام ماهواره الکترونیک</companyname>
+            <city>قزوین</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>شرکت پیام ماهواره الکترونیک با بیش از ۳۰ سال سابقه درخشان در زمینه ارتباطات نوین مخابراتی فعالیت خود را از واردات و فروش و نصب و اجرای پروژه های ارتباطی و مخابراتی و آموزش شروع کرده در حال حاضر مشغول به پیاده سازی و راه اندازی پلتفرم های استارت آپی ارتباطی و مخابراتی مدرن میباشد.
+            </discribtion>
+            <aboutcompany>ما در پیام ماهواره معتقدیم که با هم رشد میکنیم و موفقیت من موفقیت ماست ، اگر ایده‌ای دارید، رویایی در سر می‌پرورانید و به فضایی جهت شکوفایی استعداد‌ها نیاز دارید، ما از همکاری با شما استقبال می‌کنیم.
+            </aboutcompany>
+            <skills>
+                <skill>طراحی گرافیک</skill>
+                <skill>Photoshop</skill>
+                <skill>Illustrator</skill>
+                <skill>After Effects</skill>
+                <skill>Adobe Premiere Pro</skill>
+                <skill>figma</skill>
+                <skill>icon</skill>
+            </skills>
+            <gender>مرد</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0507">
+            <title>استخدام برنامه‌نویس React</title>
+            <companyname>داده پردازان آبشار</companyname>
+            <city>قزوین</city>
+            <jobclassification>وب،‌ برنامه‌نویسی و نرم‌افزار</jobclassification>
+            <contracttype>تمام وقت</contracttype>
+            <workexperience>سه تا شش سال</workexperience>
+            <discribtion>فعالیت شرکت در حوزه مشاوره، آموزش و تولید نرم افزارهای مدیریت فناوری و امنیت اطلاعات می باشد.
+            </discribtion>
+            <aboutcompany>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و</aboutcompany>
+            <skills>
+                <skill>Javascript</skill>
+                <skill>react native</skill>
+                <skill>React</skill>
+                <skill>CSS</skill>
+                <skill>ReactJS</skill>
+                <skill>HTML</skill>
+            </skills>
+            <gender>مهم نیست</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+        <job id="0508">
+            <title>استخدام کارشناس فروش تلفنی(خانم)</title>
+            <companyname>کیان تجارت فیدار</companyname>
+            <city>قزوین</city>
+            <contracttype>تمام وقت</contracttype>
+            <jobclassification>فروش و بازاریابی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>ما در کیان تجارت فیدار به دنبال تعدادی کارشناس فروش تلفنی جوان، پویا و با انگیزه هستیم که فروش و ارتباط با مشتری رو خوب بشناسه و بتونه به ما در توسعه و شکوفایی استراتژی‎‌های بلند مدتمون کمک کنه. در عوض فرصت اینو داشته باشه که رشد کنه و تو این مسیر ما هم همراهش باشیم. پس اگر دارای مهارت‌های مورد نظر ما هستید خوشحال میشیم با شما همکاری کنیم.</discribtion>
+            <aboutcompany>ماموریت قهوه توپه تامین نظر مشتریانی است که به کیفیت زندگی اهمیت می دهند.
+                این ماموریت را با جستجوی مرغوبترین قهوه و دیگر مواد اولیه با توجه به جدیدترین یافته های علمی در زمینه مواد غذایی در کنار استفاده از به روزترین فن آوری های موجود به انجام می رسانیم و با عرضه محصولاتی
+                متنوع سعی در تامین نیاز و رضایت طیف گسترده ای از مشتریان داریم.</aboutcompany>
+            <skills>
+                <skill>فروش تلفنی </skill>
+                <skill>اصول و فنون مذاکره</skill>
+                <skill>فروش و بازاریابی</skill>
+                <skill>فروش</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>کاردانی</certificate>
+        </job>
+        <job id="0509">
+            <title>استخدام گرافیست</title>
+            <companyname>علم و فن شهریار نوین</companyname>
+            <city>قزوین</city>
+            <contracttype>مهم نیست</contracttype>
+            <jobclassification>طراحی</jobclassification>
+            <workexperience>کمتر از سه سال</workexperience>
+            <discribtion>موسسه علم و فن شهریار با نام تجاری هیوا تخصصی ترین سامانه مشاوره کشور است که در زمینه های تحصیلی ، فناوری اطلاعات ، روانشناسی و حقوقی فعالیت می کند .
+                محتوای تولید شده در موسسه در قالب های متنوع مقالاتی متنی ، صوت و ویدئو تهیه شده و برای مشتریان مشتاق به دریافت مشاوره تخصصی از سراسر ایران به شکل مشاوره تلفنی ارائه می شود </discribtion>
+            <aboutcompany>متقاضیان استخدام در هیوا پس از ارسال رزومه به واحد منابع انسانی معرفی می شوند . پس از برگزاری مصاحبه و درصورت تایید مهارت های علمی و شخصی و هم راستایی با فرهنگ سازمانی به مدت 2 ماه وارد دوره آموزشی ویژه برای یادگیری مهارت های تخصصی و آشنایی با فعالیت های موسسه شده و پس از پایان این دوره آموزشی و درصورت کسب موفقیت وارد واحد های اجرایی می شوند.</aboutcompany>
+            <skills>
+                <skill>Illustrator</skill>
+                <skill>Photoshop</skill>
+                <skill>طراحی گرافیک</skill>
+            </skills>
+            <gender>زن</gender>
+            <certificate>مهم نیست</certificate>
+        </job>
+    </jobs>
+    <companies>
+        <company id="1">
+            <name>نیک اندیش</name>
+        </company>
+        <company id="2">
+            <name>اریانا</name>
+        </company>
+        <company id="3">
+            <name>ابرناک</name>
+        </company>
+        <company id="4">
+            <name>گروه دایان</name>
+        </company>
+        <company id="5">
+            <name>طراحی سایت دارکوب</name>
+        </company>
+        <company id="6">
+            <name>مرکز تحقیقات هوش مصنوعی</name>
+        </company>
+    </companies>
+</joblist>
+
+
+
+
